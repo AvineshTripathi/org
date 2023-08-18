@@ -59,9 +59,10 @@ teams:
     members:
     - AvineshTripathi
     - chris-short
-    - kaslin
-    - SD-13
     - fsmunoz
+    - kaslin
+    - sandipanpanda
+    - SD-13
     privacy: closed
   contributor-site-admins:
     description: admin access to contributor-site
